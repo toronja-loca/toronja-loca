@@ -1,0 +1,1 @@
+Repo for preparing for ISTQB certification
